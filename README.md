@@ -1,5 +1,5 @@
 # StereoImmigrants
-StereoImmigrants is a  manually annotated dataset with stereotypes towards immigrants from ParlSpeech (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN). 
+StereoImmigrants is a  manually annotated dataset with stereotypes towards immigrants from Spanish speeches in the ParlSpeech dataset (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN). 
 
 The 'non-stereotypes.xlsx' file contains 2019 examples annotated as non-stereotypes towards immigrants, but still about the immigration topic.
 The 'stereotypes.xlsx' file contains 1685 examples annotated with a specific stereotype category (i.e., Xenophobia's Victims;  Suffering Victims; Economical Resource;  Collective Threat; and Personal Threat).
