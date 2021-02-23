@@ -17,6 +17,12 @@ The stereotypes examples have also manual annotation by 5 annotators who
 The column T_TAX_1 has the category associated with the label in column TAX_1. For example, if the label from column TAX_1 is '1', the label in T_TAX_1 will be also '1'; but if the label in column TAX_1 is '1.1' specifying the first subcategory of Category '1', then the label in the column T_TAX_1 will keep only the firs digit i.e. '1'. 
 
 For the experiment we did in [1], we use the texts and their label of the column T_TAX_1, if at least three of the annotators agree that this is the right category.
+Because of the texts' lenght and the prejudice expert valoration, we exclude the texts with the following codes (concatenation of COD_1-COD_2):
+"5201-9", "1105-28", "1682-4", "4743-7", "4752-4", "1105-32", "4711-34", "4743-23", "1105-33", "4743-20",
+"1859-14", "4713-48", "4743-21", "911-1", "4457-6", "834-19", "1105-14", "1105-24", "4711-33", "707-9",
+"4711-36", "4711-79", "4711-88", "1105-29", "4317-3", "778-1", "881-5", "2075-1", "2558-35", "4365-1",
+"4393-23", "4987-8", "899-1", "1003-18", "1337-21", "4393-11", "4393-40", "4453-56", "4457-1", "1105-11",
+"834-1", "552-1", "1118-1", "829-3", "846-3", "1434-15", "1859-1"
 
 
 
