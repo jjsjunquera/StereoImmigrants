@@ -16,7 +16,7 @@ The stereotypes examples have also manual annotation by 5 annotators who
 - labeled as pro-immigrant, anti-immigrant, or ambivalent, according to the feeling that the text produced after they read it. (columns eva1,	eva2,	eva3,	eva4,	eva5)
 The column T_TAX_1 has the category associated with the label in column TAX_1. For example, if the label from column TAX_1 is '1', the label in T_TAX_1 will be also '1'; but if the label in column TAX_1 is '1.1' specifying the first subcategory of Category '1', then the label in the column T_TAX_1 will keep only the firs digit i.e. '1'. 
 
-In [1], we use the label of the column T_TAX_1 if at least three of the annotators agree that this is the right category.
+For the experiment we did in [1], we use the texts and their label of the column T_TAX_1, if at least three of the annotators agree that this is the right category.
 
 
 
